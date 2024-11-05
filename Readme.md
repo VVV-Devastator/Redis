@@ -14,7 +14,7 @@
 Верная последовательность команд.
 
 
-![Задание 1](https://github.com/VVV-Devastator/Redis/1.png)
+![Задание 1](https://github.com/VVV-Devastator/Redis/blob/main1.png)
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-![Задание 2](https://github.com/VVV-Devastator/Redis/2.png)
+![Задание 2](https://github.com/VVV-Devastator/Redis/blob/main2.png)
 
 #### 3. Задание 3 Цель практической работы:
 Научиться работать с механизмом Pub/Sub в Redis.
@@ -49,7 +49,7 @@
 
 
 
-![Задание 3](https://github.com/VVV-Devastator/Redis/3.png)
+![Задание 3](https://github.com/VVV-Devastator/Redis/blob/main3.png)
 
 
 #### 4. Задание 4 Цель практической работы:
@@ -63,4 +63,4 @@
 
 
 
-![Задание 4](https://github.com/VVV-Devastator/Redis/4.png)
+![Задание 4](https://github.com/VVV-Devastator/Redis/blob/main4.png)
